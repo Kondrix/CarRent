@@ -1,0 +1,47 @@
+#about h1 {
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #fff;
+    font-size: 300%;
+    text-decoration
+}
+
+.fwypp {
+   text-align: center;
+    margin-top: 15%;
+    
+}
+
+.fwypp input {
+    width: 80%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
+
+.fwypp input:focus {
+    background-color: lightblue;
+    border: 3px solid #555;
+}
+
+.fwypp button {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-decoration: none;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+#formh1 {
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #fff;
+    font-size: 300%;
+    text-decoration
+}
